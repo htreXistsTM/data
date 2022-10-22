@@ -5787,6 +5787,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 559405,,,,mastercard,,debit,,IN,ICICI BANK,,www.icicibank.com,+91 22 26531414,Mumbai
 559430,,,,mastercard,,credit,,US,KEESLER FEDERAL CREDIT UNION,,,8885337537,
 559436,,,,mastercard,,credit,,US,AMPLIFY,,,5128365901,
+559444,,,,mastercard,,debit,,EG,NATIONAL BANK OF EGYPT,
 559460,,,,mastercard,,credit,,US,CO-OP Financial Services,,www.co-opfs.org, +1 800 782 9042, Rancho Cucamonga
 601100,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 601110,,,,discover,,credit,,US,,,,,
