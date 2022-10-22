@@ -4845,6 +4845,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 515241,,,,mastercard,,debit,,US,CAPITAL ONE,,,8006552265,
 515252,,,,mastercard,,debit,,US,LAFAYETTE FEDERAL CREDIT UNION,,,3019297990,
 515255,,,,mastercard,,debit,,US,SUN EAST FEDERAL CREDIT UNION,,,8889187840,
+515446,,,mastercard,,credit,EG
 515549,,,,mastercard,,debit,,US,COMERICA,,,8009618432,
 515550,,,,mastercard,,debit,,US,COMERICA,,,8663208822,
 515551,,,,mastercard,,debit,,US,WELLS FARGO,,,8013523117,
