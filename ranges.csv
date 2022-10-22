@@ -1,4 +1,4 @@
-iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,bank_name,bank_logo,bank_url,bank_phone,bank_city
+iin_start,iin_end,number_length,number_luhn,scheme,brand,type,,country,bank_name,bank_logo,bank_url,bank_phone,bank_city
 341142,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 342562,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 360218,,,,diners,Diners Club International,credit,,EC,DINERS CLUB DEL ECUADOR S.A.,,www.dinersclub.com.ec,+593 2 297 3100,Quito
@@ -301,6 +301,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 402318,,,,visa,,credit,,MX,,,,8003969665,
 402360,,,,visa,,debit,,IT,POSTE ITALIANE S.P.A. (BANCA POSTA),,,,
 402367,,,,visa,,debit,,KR,HANA,,,82425202500,
+402386,,,,visa,,credit,,EG,CREDIT AGRICOLE EGYPT
 402396,,,,visa,,credit,,GB,VANQUIS,,,08717705555,
 402400,,,,visa,,credit,,US,BANK OF AMERICA,,,2035154654,
 402411,,,,visa,,credit,,US,BANK OF AMERICA N.A.,,,8089142563,
@@ -481,6 +482,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 411399,,,,visa,,debit,,US,GREATER  ABBEVILLE FEDERAL CREDIT UNION,,,,
 411507,,,,visa,,credit,,US,CAPITAL ONE BANK,,,8008670904,
 411583,,,,visa,,credit,,US,SEACOMM FEDERAL CREDIT UNION,,,8007640566,
+411739,,,visa,debit,prepaid,EG
 411770,411771,,,visa,,debit,,US,BANK OF AMERICA,,,8004321000,
 411773,411776,,,visa,,debit,,US,BANK OF AMERICA,,,8004321000,
 411777,,,,visa,,debit,,US,BANK OF AMERICA,,,8002884408,
@@ -4845,6 +4847,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 515241,,,,mastercard,,debit,,US,CAPITAL ONE,,,8006552265,
 515252,,,,mastercard,,debit,,US,LAFAYETTE FEDERAL CREDIT UNION,,,3019297990,
 515255,,,,mastercard,,debit,,US,SUN EAST FEDERAL CREDIT UNION,,,8889187840,
+515446,,,mastercard,,credit,,US,FIRST PREMIER BANK,,,800-743-2967
 515549,,,,mastercard,,debit,,US,COMERICA,,,8009618432,
 515550,,,,mastercard,,debit,,US,COMERICA,,,8663208822,
 515551,,,,mastercard,,debit,,US,WELLS FARGO,,,8013523117,
