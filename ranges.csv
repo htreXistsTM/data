@@ -4341,6 +4341,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 473702,473703,,,visa,,debit,,US,WELLS FARGO,,,8008693557,
 473764,,,,visa,,credit,,US,,,,,
 473819,,,,visa,,credit,,MY,CITIBANK,,,60323830000,
+473865,,,,visa,,debit,,EG,NATIONAL SOCIETE GENERALE BANK,,,202 2770-7791
 473905,,,,visa,,debit,,US,ALTRA FEDERAL CREDIT UNION,,,6087874500,
 473956,,,,visa,,debit,,US,VIRGINIA CREDIT UNION,,,8004497728,
 474151,,,,visa,,credit,,TR,GARANTI,,,00902124440400,
